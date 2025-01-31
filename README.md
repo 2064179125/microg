@@ -9,7 +9,7 @@
 https://microg.org/download.html
 下滑找到三个应用 将三个都下载安装 
 打开microg设置将自我检查中的所有钩都打上（给权限）
-下载https://github.com/whew-inc/FakeGApps/releases/tag/6.5并启用
+下载https://github.com/whew-inc/FakeGApps/releases/tag/6.5 并启用
 再然后就从第三方渠道下载Google Play Store，可以从Appshare、Apkpure、Uptodown都可以 安装 
 这时候再打开自我检查就可以发现全部钩都被打上 如果没有的话大概率是权限没搞好
 这时候将google服务以下的选项全部打开 你将拥有一个更好用的gms
